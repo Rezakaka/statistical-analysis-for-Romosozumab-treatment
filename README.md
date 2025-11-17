@@ -1,4 +1,6 @@
 # statistical-analysis-for-Romosozumab-treatment
+Statistical Analyses
+Statistical analyses were completed using a custom-built Python script to compare month-24 measures of DXA-derived areal BMD (spine and hip), CT-derived volumetric BMD (proximal femur, distal femur and proximal tibia), and FE-predicted strength (proximal femur and tibia) to month-12 measures. Results are presented as medians (IQRs), and the non-parametric Wilcoxon tests were used to investigate potential changes between months 12 and 24. The criterion alpha-level was set to 0.05 for all tests. 
 
 # Abstract
 Weekly treatment with oral alendronate maintains bone mineral increases gained after one year of romosozumab treatment, in women with chronic spinal cord injury
